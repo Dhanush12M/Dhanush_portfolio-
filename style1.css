@@ -1,0 +1,15 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0%;
+}
+
+.banner{
+    background-image: url(/pictures/coffee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0px;
+    
+}
+.skills-padding{
+    padding:70px 0;
+}
